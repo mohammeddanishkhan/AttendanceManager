@@ -1,0 +1,11 @@
+==============Attendance Manager=============
+Android App, developed in Android studio IDE v3.4.1 along with gradle for building and dependency management. Developed in Java and XML.
+
+Two separate logins: One for instructors and the other for students
+Instructor login: user id: abc, passwd: abc
+instructor can add a new student(creates login credentials for students), and mark attendance for all the students for the required subjects.
+
+Student login: logincredential provided by instructor
+students can view their attendance in  all the subjects.
+
+Database used: Firebase
